@@ -1,2 +1,2 @@
-def date():
-    return datetime.now()
+def suma():
+    return 1 + 1
