@@ -6,8 +6,8 @@ def resta(n1, n2):
     return n1 - n2
 
 
-def multiplicacion():
-    return 2 * 2
+def multiplicacion(n1, n2):
+    return n1 * n2
 
 
 def division():
