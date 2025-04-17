@@ -2,8 +2,8 @@ def suma(n1, n2):
     return n1 + n2
 
 
-def resta():
-    return 1 - 1
+def resta(n1, n2):
+    return n1 - n2
 
 
 def multiplicacion():
