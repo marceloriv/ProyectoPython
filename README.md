@@ -1,4 +1,4 @@
-# Un projecto de Prueba de Python
+# Un proyecto de Prueba de Python
 
 Este es un proyecto de Python que incluye una estructura básica para el desarrollo de aplicaciones y pruebas utilizando pytest.
 
